@@ -1,0 +1,7 @@
+{
+  "name": "Bar2Display2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
